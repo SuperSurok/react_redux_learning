@@ -5,6 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "babel-core": "6.26.3",
+    "babel-loader": "8.0.5 babel-preset-env babel-preset-react babel-preset-stage-0 --save-dev",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "latest",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.0.3"
